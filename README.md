@@ -18,7 +18,7 @@ I have served as an Engineering Manager at Cube, an FP&A software platform for f
 
 ## Featured projects
 
-### Building an LLM from Scratch
+### [Building an LLM from Scratch](https://github.com/HillelW/llm-from-scratch)
 
 A notebook-first course that develops language models from first principles through concrete, executable Python examples.
 
